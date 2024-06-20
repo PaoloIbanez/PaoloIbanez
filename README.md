@@ -4,7 +4,7 @@
 - 👨‍💻 Resident Assistant @ Mount Aloysius College
 - 🔙 Director of Technology & Co-Owner @ Hispanic Anima
 - 🔙 Former Inventory Controller @ Lumer
-- 🔙 Former Cyber Threat Intelligence Analyst @ Cyber Defense and Intelligence Center (CDIC)
+- 🔙 Cyber Threat Intelligence Analyst @ Cyber Defense and Intelligence Center (CDIC)
 - I'm interested in:
   - Web Design and Development 🌐
   - E-commerce Platforms 🛒
