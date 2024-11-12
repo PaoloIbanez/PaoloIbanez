@@ -1,6 +1,6 @@
 - Hello! I'm Paolo 
 - Information Technology and Business Administration Student from Mexico in Pennsylvania!
-- 🎓 Pursuing a Bachelor of Science in Information Technology & Business Administration with a specialization in Supply Chain Management @ Mount Aloysius College '26
+- 🎓 Pursuing a Bachelor of Science in Information Technology & Business Administration with a specialization in Supply Chain Management @ Mount Aloysius College '25
 - 👨‍💻 Resident Assistant @ Mount Aloysius College
 - 🔙 Director of Technology & Co-Owner @ Hispanic Anima
 - 🔙 Former Inventory Controller @ Lumer
