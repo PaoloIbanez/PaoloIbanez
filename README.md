@@ -1,22 +1,63 @@
-- Hello! I'm Paolo 
-- Information Technology and Business Administration Student from Mexico in Pennsylvania!
-- 🎓 Pursuing a Bachelor of Science in Information Technology & Business Administration with a specialization in Supply Chain Management @ Mount Aloysius College '25
-- 👨‍💻 Resident Assistant @ Mount Aloysius College
-- 🔙 Director of Technology & Co-Owner @ Hispanic Anima
-- 🔙 Former Inventory Controller @ Lumer
-- 🔙 Cyber Threat Intelligence Analyst @ Cyber Defense and Intelligence Center (CDIC)
-- I'm interested in:
-  - Web Design and Development 🌐
-  - E-commerce Platforms 🛒
-  - Supply Chain Management 📦
-  - Cybersecurity 🛡️
-  - Data Analytics 📊
+# 👋 Hello, I'm Paolo Ibanez!
 
-- 📫 You can reach me through LinkedIn.
+🎓 **Information Technology & Business Administration Student**  
+📍 From **Mexico**, currently in **Pennsylvania**  
+📅 **Graduating December 2025**  
+🎯 **Specializing in Supply Chain Management**  
 
+---
 
+## 🚀 About Me  
+I'm passionate about the intersection of **technology, business, and cybersecurity**. With experience in **cyber threat intelligence, e-commerce, IT consulting, and inventory management**, I thrive in solving complex problems and optimizing digital solutions.
 
-<!---
-PaoloIbanez/PaoloIbanez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔥 Experience Highlights  
+- 👨‍💻 **Resident Assistant** @ Mount Aloysius College  
+- 🏢 **Director of Technology & Co-Owner** @ Hispanic Anima  
+- 📦 **Former Inventory Controller** @ Lumer  
+- 🛡️ **Cyber Threat Intelligence Analyst** @ Cyber Defense and Intelligence Center (CDIC)  
+
+---
+
+## 💡 Interests & Skills  
+
+### 🖥️ **Tech Stack & Tools**  
+- **Programming & Web Development:**  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+- **Cybersecurity & Networking:**  
+  ![OSINT](https://img.shields.io/badge/-OSINT-00599C?style=flat)  
+  ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)  
+- **Databases & Backend:**  
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+- **Business & Analytics:**  
+  ![Supply Chain](https://img.shields.io/badge/-Supply_Chain-4CAF50?style=flat)  
+  ![E-commerce](https://img.shields.io/badge/-E--commerce-ff9800?style=flat)  
+  ![Data Analytics](https://img.shields.io/badge/-Data_Analytics-2196F3?style=flat)  
+- **Software & Tools:**  
+  ![AutoCAD](https://img.shields.io/badge/-AutoCAD-EE3124?style=flat)  
+  ![Bluebeam](https://img.shields.io/badge/-Bluebeam-0033A0?style=flat)  
+  ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)  
+
+---
+
+## 🌍 I'm Interested In...  
+✔ **Web Design & Development** 🌐  
+✔ **E-commerce Platforms** 🛒  
+✔ **Supply Chain Management** 📦  
+✔ **Cybersecurity** 🛡️  
+✔ **Data Analytics** 📊  
+
+---
+
+## 📬 Let's Connect!  
+📩 **Email:** pmist1@student.mtaloy.edu  
+💼 **LinkedIn:** [linkedin.com/in/paolo-ibañez-medina](https://www.linkedin.com/in/paolo-ibanez-medina/)  
+🐍 **Python Portfolio:** [GitHub](https://github.com/PaoloIbanez)  
+
+---
+
+💡 *"Technology and business go hand in hand. I strive to bridge the gap between innovation and efficiency!"* 🚀  
+
