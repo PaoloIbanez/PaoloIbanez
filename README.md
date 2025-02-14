@@ -54,7 +54,7 @@ I'm passionate about the intersection of **technology, business, and cybersecuri
 
 ## 📬 Let's Connect!  
 📩 **Email:** pmist1@student.mtaloy.edu  
-💼 **LinkedIn:** [linkedin.com/in/paolo-ibañez-medina](https://www.linkedin.com/in/paolo-ibanez-medina/)  
+💼 **LinkedIn:** [linkedin.com/in/paolo-ibañez-medina](www.linkedin.com/in/paolo-ibáñez-medina)  
 🐍 **Python Portfolio:** [GitHub](https://github.com/PaoloIbanez)  
 
 ---
