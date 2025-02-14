@@ -14,7 +14,7 @@ I'm passionate about the intersection of **technology, business, and cybersecuri
 - 👨‍💻 **Resident Assistant** @ Mount Aloysius College  
 - 🏢 **Director of Technology & Co-Owner** @ Hispanic Anima  
 - 📦 **Former Inventory Controller** @ Lumer  
-- 🛡️ **Cyber Threat Intelligence Analyst** @ Cyber Defense and Intelligence Center (CDIC)  
+- 🛡️ **Former Cyber Threat Intelligence Analyst** @ Cyber Defense and Intelligence Center (CDIC)  
 
 ---
 
