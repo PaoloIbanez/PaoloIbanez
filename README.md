@@ -59,5 +59,5 @@ I'm passionate about the intersection of **technology, business, and cybersecuri
 
 ---
 
-💡 *"Technology and business go hand in hand. I strive to bridge the gap between innovation and efficiency!"* 🚀  
+ *"Technology and business go hand in hand. I strive to bridge the gap between innovation and efficiency!"* 
 
