@@ -57,7 +57,7 @@ I'm passionate about the intersection of **technology, business, and cybersecuri
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/PaoloIbanez)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:paolochamba@gmail.com)
 
-## Github Stats & Top Languages Used
+## 📊 Github Stats & Top Languages Used
 
 ![Paolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaoloIbanez&show_icons=true&theme=dark)
 
